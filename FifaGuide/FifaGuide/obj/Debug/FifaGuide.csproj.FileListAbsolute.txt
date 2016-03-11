@@ -1,0 +1,50 @@
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\FifaGuide.dll.config
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\FifaGuide.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\FifaGuide.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\obj\Debug\FifaGuide.csproj.App.config
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\obj\Debug\DetailPlayer.xaml.g.cs
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\obj\Debug\Ranking.xaml.g.cs
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\obj\Debug\FifaGuide.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\obj\Debug\FifaGuide.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide\obj\Debug\FifaGuide.csprojResolveAssemblyReference.cache
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\FifaGuide.dll.config
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\FifaGuide.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\FifaGuide.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Newtonsoft.Json.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.Extensions.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.Primitives.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Core.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Platform.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Newtonsoft.Json.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.Extensions.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\System.Net.Http.Primitives.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Core.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide\obj\Debug\FifaGuide.csproj.App.config
+F:\_git\FifaGuide\FifaGuide\FifaGuide\obj\Debug\FifaGuide.csprojResolveAssemblyReference.cache
+F:\_git\FifaGuide\FifaGuide\FifaGuide\obj\Debug\DetailPlayer.xaml.g.cs
+F:\_git\FifaGuide\FifaGuide\FifaGuide\obj\Debug\Ranking.xaml.g.cs
+F:\_git\FifaGuide\FifaGuide\FifaGuide\obj\Debug\FifaGuide.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide\obj\Debug\FifaGuide.pdb

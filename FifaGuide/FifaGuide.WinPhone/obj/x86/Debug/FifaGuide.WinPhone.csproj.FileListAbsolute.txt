@@ -1,0 +1,203 @@
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\SplashScreenImage.jpg
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\FifaGuide.WinPhone.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\FifaGuide.WinPhone.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\AppManifest.xaml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\PhoneApp1_Debug_x86.xap
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\FifaGuide.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.WindowsPhone.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Platform.WP8.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Net.Http.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\FifaGuide.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.WindowsPhone.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.WindowsPhone.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Core.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Net.Http.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Net.Http.Primitives.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\App.g.cs
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.g.resources
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.Resources.AppResources.resources
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.csproj.GenerateResource.Cache
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\XapCacheFile.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\SplashScreenImage.jpg
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\ApplicationIcon.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\FifaGuide.WinPhone.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\FifaGuide.WinPhone.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\AppManifest.xaml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Properties\WMAppManifest.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\PhoneApp1_Debug_x86.xap
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\FifaGuide.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.WindowsPhone.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Core.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Platform.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Platform.WP8.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Xaml.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Net.Http.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Newtonsoft.Json.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Windows.Interactivity.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Net.Http.Primitives.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\FifaGuide.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.WindowsPhone.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ImageCircle.Forms.Plugin.WindowsPhone.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Core.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Xamarin.Forms.Xaml.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Net.Http.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\Newtonsoft.Json.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\System.Net.Http.Primitives.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.csprojResolveAssemblyReference.cache
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\App.g.cs
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\MainPage.g.cs
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.g.resources
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.Resources.AppResources.resources
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.csproj.GenerateResource.Cache
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\FifaGuide.WinPhone.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.WinPhone\obj\x86\Debug\XapCacheFile.xml

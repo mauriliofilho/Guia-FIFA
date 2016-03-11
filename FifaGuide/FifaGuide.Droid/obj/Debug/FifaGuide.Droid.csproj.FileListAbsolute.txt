@@ -1,0 +1,80 @@
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid.dll.config
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid.apk
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid-Signed.apk
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\FifaGuide.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\FifaGuide.Droid.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\FifaGuide.Droid.pdb
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\android\bin\FifaGuide.Droid.apk
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable\futboolfield.jpg
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-hdpi\futboolfield.jpg
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-xhdpi\futboolfield.jpg
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-xxhdpi\futboolfield.jpg
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable\dome.png
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\R.cs.flag
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\uploadflags.txt
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Maurilio Filho\Documents\GitHub\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\System.Net.Http.Primitives.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid.dll.config
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid.apk
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.Droid-Signed.apk
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FormsViewGroup.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Core.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Newtonsoft.Json.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\System.Net.Http.Primitives.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\FifaGuide.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Core.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\Newtonsoft.Json.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\bin\Debug\System.Net.Http.Primitives.xml
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\FifaGuide.Droid.csprojResolveAssemblyReference.cache
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\FifaGuide.Droid.dll
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\FifaGuide.Droid.pdb
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\android\bin\FifaGuide.Droid.apk
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable\icon.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-hdpi\icon.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable\futboolfield.jpg
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-hdpi\futboolfield.jpg
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-xhdpi\futboolfield.jpg
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable-xxhdpi\futboolfield.jpg
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\res\drawable\dome.png
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\R.cs.flag
+F:\_git\FifaGuide\FifaGuide\FifaGuide.Droid\obj\Debug\uploadflags.txt
