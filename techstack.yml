@@ -1,0 +1,216 @@
+repo_name: mauriliofilho/Guia-FIFA
+report_id: a002ad1a9bddee83753196f5f06ed4db
+repo_type: Public
+timestamp: '2023-11-30T15:49:59+00:00'
+requested_by: mauriliofilho
+provider: github
+branch: master
+detected_tools_count: 16
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '5.0'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/FifaGuide.Droid.csproj
+  detection_source: FifaGuide/FifaGuide.Droid/FifaGuide.Droid.csproj
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source: FifaGuide/FifaGuide/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Xamarin
+  description: Create iOS, Android and Mac apps in C#
+  website_url: http://xamarin.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/211/RDXWoY7W.png
+  detection_source: FifaGuide/FifaGuide.Droid/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Xamarin Forms
+  description: " A complete cross-platform UI toolkit for .NET developers"
+  website_url: http://developer.xamarin.com/guides/cross-platform/xamarin-forms/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2459/RDXWoY7W_400x400.png
+  detection_source: FifaGuide/FifaGuide.Droid/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: FifaGuide/FifaGuide/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source: FifaGuide.sln
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Microsoft.Bcl
+  description: 'This packages enables projects targeting down-level platforms to use
+    some of the types added in later versions including: - CallerMemberNameAttribute
+    - CallerLineNumberAttribute...'
+  package_url: https://www.nuget.org/Microsoft.Bcl
+  version: 1.1.10
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12902/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
+  detection_source: FifaGuide/FifaGuide/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Microsoft.Bcl.Build
+  description: This package provides build infrastructure components so that projects
+    referencing specific Microsoft packages can successfully build
+  package_url: https://www.nuget.org/Microsoft.Bcl.Build
+  version: 1.0.21
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12905/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
+  detection_source: FifaGuide/FifaGuide.Droid/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Microsoft.Net.Http
+  description: This package includes HttpClient for sending requests over HTTP, as
+    well as HttpRequestMessage and HttpResponseMessage for processing HTTP messages
+  package_url: https://www.nuget.org/Microsoft.Net.Http
+  version: 2.2.29
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12875/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
+  detection_source: FifaGuide/FifaGuide/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
+  detection_source: FifaGuide/FifaGuide/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+  vulnerabilities:
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+    detected_date: Jun 23
+    severity: high
+    first_patched: 13.0.1
+- name: WPtoolkit
+  description: Windows Phone toolkit provides a collection of controls
+  package_url: https://www.nuget.org/WPtoolkit
+  version: 4.2013.08
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13641/default_68f579b2fdb37f974ffe5edb6e34476d1305c023.png
+  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.WinPhone/packages.config
+  detection_source: FifaGuide/FifaGuide.WinPhone/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Xamarin.Android.Support.v4
+  description: Xamarin.Android bindings for Android Support Library - support-v4
+  package_url: https://www.nuget.org/Xamarin.Android.Support.v4
+  version: 22.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12934/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
+  detection_source: FifaGuide/FifaGuide.Droid/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
+- name: Xamarin.Forms
+  description: Build native UIs for iOS
+  package_url: https://www.nuget.org/Xamarin.Forms
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12873/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
+  detection_source: FifaGuide/FifaGuide.Droid/packages.config
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2016-03-11 22:44:09.000000000 Z
