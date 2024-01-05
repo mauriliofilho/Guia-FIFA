@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mauriliofilho/Guia-FIFA](https://github.com/mauriliofilho/Guia-FIFA)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|11/30/23 <br/>Report generated|
+|16<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -137,7 +137,7 @@ Full tech stack [here](/techstack.md)
 |[Microsoft.Bcl](https://www.nuget.org/Microsoft.Bcl)|v1.1.10|03/11/16|Maurilio Filho |N/A|N/A|
 |[Microsoft.Bcl.Build](https://www.nuget.org/Microsoft.Bcl.Build)|v1.0.21|03/11/16|Maurilio Filho |N/A|N/A|
 |[Microsoft.Net.Http](https://www.nuget.org/Microsoft.Net.Http)|v2.2.29|03/11/16|Maurilio Filho |Apache-2.0|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v7.0.1|03/11/16|Maurilio Filho |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v7.0.1|03/11/16|Maurilio Filho |MIT|[](https://github.com/advisories/GHSA-8rfx-6mr3-5jh3) (High)<br/>[CVE-2024-21907](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
 |[WPtoolkit](https://www.nuget.org/WPtoolkit)|v4.2013.08|03/11/16|Maurilio Filho |N/A|N/A|
 |[Xamarin.Android.Support.v4](https://www.nuget.org/Xamarin.Android.Support.v4)|v22.2.0|03/11/16|Maurilio Filho |MIT|N/A|
 |[Xamarin.Forms](https://www.nuget.org/Xamarin.Forms)|v1.4.3|03/11/16|Maurilio Filho |MIT|N/A|
