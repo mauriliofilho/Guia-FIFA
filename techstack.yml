@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/Guia-FIFA
 report_id: a002ad1a9bddee83753196f5f06ed4db
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:49:59+00:00'
+timestamp: '2024-01-05T08:31:18+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/FifaGuide.Droid.csproj
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/FifaGuide.Droid.csproj
   detection_source: FifaGuide/FifaGuide.Droid/FifaGuide.Droid.csproj
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -40,6 +42,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -51,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
   detection_source: FifaGuide/FifaGuide/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -62,6 +66,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/211/RDXWoY7W.png
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
   detection_source: FifaGuide/FifaGuide.Droid/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -73,6 +78,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/2459/RDXWoY7W_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
   detection_source: FifaGuide/FifaGuide.Droid/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -84,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -93,6 +100,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
   detection_source: FifaGuide/FifaGuide/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -105,6 +113,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide.sln
   detection_source: FifaGuide.sln
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -119,7 +128,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12902/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
   detection_source: FifaGuide/FifaGuide/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -133,7 +142,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12905/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
   detection_source: FifaGuide/FifaGuide.Droid/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -148,7 +157,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12875/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
   detection_source: FifaGuide/FifaGuide/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -162,13 +171,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide/packages.config
   detection_source: FifaGuide/FifaGuide/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -182,7 +197,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13641/default_68f579b2fdb37f974ffe5edb6e34476d1305c023.png
-  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.WinPhone/packages.config
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.WinPhone/packages.config
   detection_source: FifaGuide/FifaGuide.WinPhone/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -196,7 +211,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12934/default_d871263d8798790404638a4d3692cc70b6389166.png
-  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
   detection_source: FifaGuide/FifaGuide.Droid/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
@@ -210,7 +225,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12873/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
+  detection_source_url: https://github.com/mauriliofilho/Guia-FIFA/blob/master/FifaGuide/FifaGuide.Droid/packages.config
   detection_source: FifaGuide/FifaGuide.Droid/packages.config
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
