@@ -2,7 +2,7 @@ repo_name: mauriliofilho/Guia-FIFA
 report_id: a002ad1a9bddee83753196f5f06ed4db
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:31:18+00:00'
+timestamp: '2024-02-29T18:55:45+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: master
@@ -71,7 +71,7 @@ tools:
   last_updated_by: Maurilio Filho
   last_updated_on: 2016-03-11 22:44:09.000000000 Z
 - name: Xamarin Forms
-  description: " A complete cross-platform UI toolkit for .NET developers"
+  description: A complete cross-platform UI toolkit for .NET developers
   website_url: http://developer.xamarin.com/guides/cross-platform/xamarin-forms/
   open_source: false
   hosted_saas: false
